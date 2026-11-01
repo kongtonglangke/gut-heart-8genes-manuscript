@@ -1,0 +1,6 @@
+_new.docx
+__pycache__/
+*.pyc
+_tmp/
+_idx/
+*.vcf.gz.tbi
