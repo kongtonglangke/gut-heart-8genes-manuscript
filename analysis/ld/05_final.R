@@ -7,7 +7,7 @@ suppressPackageStartupMessages({
   library(coloc)
 })
 
-BASE <- "F:/longxiawenjian/gaoxueyaqiguanzhou/Gut_Heart_RAS_8genes"
+BASE <- "F:/longxiawenjian/gaoxueyaqiguanzhou/Paper01_GutHeart_8genes/Gut_Heart_RAS_8genes"
 LD <- file.path(BASE, "08_ld")
 OUT <- file.path(LD, "out")
 dir.create(OUT, showWarnings = FALSE)

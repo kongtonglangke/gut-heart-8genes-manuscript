@@ -1,0 +1,12 @@
+gene,seqid,protein,uniprot,included,ncand
+LRP1,10699_52,LRP1,Q07954,Yes,yes
+LRP1,8601_167,sLRP1,Q07954,Yes,yes
+LRP1,9182_3,sLRP1,Q07954,Yes,yes
+CTSD,5508_62,Cathepsin D,P07339,Yes,yes
+MTHFR,,,,NOT ON ARRAY,no
+AUTS2,,,,NOT ON ARRAY,no
+FURIN,6276_16,Furin,P09958,Yes,yes
+CST3,2609_59,Cystatin C,P01034,Yes,yes
+FCER1G,,,,NOT ON ARRAY,no
+TBXAS1,8098_37,THAS,P24557,Yes,yes
+FES,,,,NOT ON ARRAY,no

@@ -5,7 +5,7 @@ import io
 import os
 import re
 
-P = (r"F:\longxiawenjian\gaoxueyaqiguanzhou\Manuscript_GutHeart_8genes"
+P = (r"F:/longxiawenjian/gaoxueyaqiguanzhou/Paper01_GutHeart_8genes/Manuscript_GutHeart_8genes"
      r"\Manuscript_GutHeart_8genes_v1.md")
 
 t = io.open(P, encoding="utf-8").read()

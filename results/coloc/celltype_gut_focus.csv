@@ -1,0 +1,257 @@
+gene,compartment,cell_type,ncpm
+LRP1,gut_epithelial,colonocytes,85.7
+LRP1,gut_epithelial,enterocytes,103.5
+LRP1,gut_epithelial,goblet cells,22.9
+LRP1,gut_epithelial,paneth cells,11.6
+LRP1,gut_epithelial,tuft cells,34.6
+LRP1,gut_epithelial,enteric stem cells,27.2
+LRP1,gut_epithelial,enteric transient amplifying cells,32.7
+LRP1,cardiovascular,cardiomyocytes,30.5
+LRP1,cardiovascular,vascular smooth muscle cells,65.9
+LRP1,cardiovascular,vascular endothelial cells,6.6
+LRP1,cardiovascular,pericytes,93.2
+LRP1,cardiovascular,fibroblasts,444.0
+LRP1,cardiovascular,fibro-adipogenic progenitors,289.7
+LRP1,cardiovascular,epicardial cells,88.7
+LRP1,kidney,proximal tubule cells,7.2
+LRP1,kidney,podocytes,21.2
+LRP1,kidney,loop of henle epithelial cells,10.8
+LRP1,kidney,renal collecting duct principal cells,8.3
+LRP1,kidney,renal collecting duct intercalated cells,4.6
+LRP1,kidney,distal convoluted tubule cells,7.4
+LRP1,immune,macrophages,189.1
+LRP1,immune,monocytes,220.6
+LRP1,immune,neutrophils,12.5
+LRP1,immune,t-cells,4.8
+LRP1,immune,b-cells,3.8
+LRP1,immune,plasma cells,5.6
+LRP1,immune,nk-cells,2.4
+LRP1,immune,mast cells,7.9
+LRP1,immune,cdc,48.4
+LRP1,immune,pdcs,1.3
+LRP1,immune,innate lymphoid cells,10.9
+LRP1,immune,kupffer cells,253.2
+CTSD,gut_epithelial,colonocytes,8.3
+CTSD,gut_epithelial,enterocytes,19.7
+CTSD,gut_epithelial,goblet cells,1.8
+CTSD,gut_epithelial,paneth cells,3.9
+CTSD,gut_epithelial,tuft cells,0.0
+CTSD,gut_epithelial,enteric stem cells,0.9
+CTSD,gut_epithelial,enteric transient amplifying cells,1.7
+CTSD,cardiovascular,cardiomyocytes,1.8
+CTSD,cardiovascular,vascular smooth muscle cells,1.2
+CTSD,cardiovascular,vascular endothelial cells,0.9
+CTSD,cardiovascular,pericytes,2.5
+CTSD,cardiovascular,fibroblasts,1.9
+CTSD,cardiovascular,fibro-adipogenic progenitors,0.4
+CTSD,cardiovascular,epicardial cells,0.0
+CTSD,kidney,proximal tubule cells,0.0
+CTSD,kidney,podocytes,0.0
+CTSD,kidney,loop of henle epithelial cells,0.0
+CTSD,kidney,renal collecting duct principal cells,0.0
+CTSD,kidney,renal collecting duct intercalated cells,0.0
+CTSD,kidney,distal convoluted tubule cells,0.0
+CTSD,immune,macrophages,9.6
+CTSD,immune,monocytes,10.1
+CTSD,immune,neutrophils,6.3
+CTSD,immune,t-cells,1.3
+CTSD,immune,b-cells,0.3
+CTSD,immune,plasma cells,1.1
+CTSD,immune,nk-cells,3.3
+CTSD,immune,mast cells,7.3
+CTSD,immune,cdc,0.7
+CTSD,immune,pdcs,0.7
+CTSD,immune,innate lymphoid cells,2.4
+CTSD,immune,kupffer cells,5.1
+MTHFR,gut_epithelial,colonocytes,55.2
+MTHFR,gut_epithelial,enterocytes,56.0
+MTHFR,gut_epithelial,goblet cells,29.6
+MTHFR,gut_epithelial,paneth cells,7.7
+MTHFR,gut_epithelial,tuft cells,0.0
+MTHFR,gut_epithelial,enteric stem cells,19.3
+MTHFR,gut_epithelial,enteric transient amplifying cells,24.0
+MTHFR,cardiovascular,cardiomyocytes,90.7
+MTHFR,cardiovascular,vascular smooth muscle cells,56.2
+MTHFR,cardiovascular,vascular endothelial cells,27.2
+MTHFR,cardiovascular,pericytes,50.2
+MTHFR,cardiovascular,fibroblasts,29.6
+MTHFR,cardiovascular,fibro-adipogenic progenitors,24.8
+MTHFR,cardiovascular,epicardial cells,20.5
+MTHFR,kidney,proximal tubule cells,95.9
+MTHFR,kidney,podocytes,28.4
+MTHFR,kidney,loop of henle epithelial cells,18.5
+MTHFR,kidney,renal collecting duct principal cells,20.3
+MTHFR,kidney,renal collecting duct intercalated cells,19.8
+MTHFR,kidney,distal convoluted tubule cells,20.0
+MTHFR,immune,macrophages,54.1
+MTHFR,immune,monocytes,61.1
+MTHFR,immune,neutrophils,26.6
+MTHFR,immune,t-cells,16.0
+MTHFR,immune,b-cells,30.2
+MTHFR,immune,plasma cells,15.8
+MTHFR,immune,nk-cells,20.0
+MTHFR,immune,mast cells,17.9
+MTHFR,immune,cdc,49.5
+MTHFR,immune,pdcs,12.4
+MTHFR,immune,innate lymphoid cells,10.8
+MTHFR,immune,kupffer cells,58.4
+AUTS2,gut_epithelial,colonocytes,96.3
+AUTS2,gut_epithelial,enterocytes,52.1
+AUTS2,gut_epithelial,goblet cells,48.3
+AUTS2,gut_epithelial,paneth cells,69.6
+AUTS2,gut_epithelial,tuft cells,23.1
+AUTS2,gut_epithelial,enteric stem cells,80.8
+AUTS2,gut_epithelial,enteric transient amplifying cells,68.1
+AUTS2,cardiovascular,cardiomyocytes,545.3
+AUTS2,cardiovascular,vascular smooth muscle cells,297.1
+AUTS2,cardiovascular,vascular endothelial cells,310.7
+AUTS2,cardiovascular,pericytes,506.3
+AUTS2,cardiovascular,fibroblasts,494.7
+AUTS2,cardiovascular,fibro-adipogenic progenitors,1518.5
+AUTS2,cardiovascular,epicardial cells,186.5
+AUTS2,kidney,proximal tubule cells,428.0
+AUTS2,kidney,podocytes,565.5
+AUTS2,kidney,loop of henle epithelial cells,407.6
+AUTS2,kidney,renal collecting duct principal cells,565.6
+AUTS2,kidney,renal collecting duct intercalated cells,142.1
+AUTS2,kidney,distal convoluted tubule cells,226.1
+AUTS2,immune,macrophages,374.6
+AUTS2,immune,monocytes,74.2
+AUTS2,immune,neutrophils,27.7
+AUTS2,immune,t-cells,269.8
+AUTS2,immune,b-cells,620.0
+AUTS2,immune,plasma cells,36.5
+AUTS2,immune,nk-cells,531.6
+AUTS2,immune,mast cells,100.7
+AUTS2,immune,cdc,546.8
+AUTS2,immune,pdcs,531.7
+AUTS2,immune,innate lymphoid cells,600.2
+AUTS2,immune,kupffer cells,7.2
+FURIN,gut_epithelial,colonocytes,36.4
+FURIN,gut_epithelial,enterocytes,26.1
+FURIN,gut_epithelial,goblet cells,41.0
+FURIN,gut_epithelial,paneth cells,34.8
+FURIN,gut_epithelial,tuft cells,276.7
+FURIN,gut_epithelial,enteric stem cells,13.9
+FURIN,gut_epithelial,enteric transient amplifying cells,17.0
+FURIN,cardiovascular,cardiomyocytes,15.9
+FURIN,cardiovascular,vascular smooth muscle cells,14.9
+FURIN,cardiovascular,vascular endothelial cells,39.9
+FURIN,cardiovascular,pericytes,16.9
+FURIN,cardiovascular,fibroblasts,14.8
+FURIN,cardiovascular,fibro-adipogenic progenitors,3.3
+FURIN,cardiovascular,epicardial cells,9.1
+FURIN,kidney,proximal tubule cells,7.2
+FURIN,kidney,podocytes,9.5
+FURIN,kidney,loop of henle epithelial cells,13.4
+FURIN,kidney,renal collecting duct principal cells,13.1
+FURIN,kidney,renal collecting duct intercalated cells,10.9
+FURIN,kidney,distal convoluted tubule cells,7.3
+FURIN,immune,macrophages,28.8
+FURIN,immune,monocytes,68.3
+FURIN,immune,neutrophils,132.5
+FURIN,immune,t-cells,17.6
+FURIN,immune,b-cells,7.3
+FURIN,immune,plasma cells,13.6
+FURIN,immune,nk-cells,28.7
+FURIN,immune,mast cells,18.5
+FURIN,immune,cdc,27.2
+FURIN,immune,pdcs,12.9
+FURIN,immune,innate lymphoid cells,76.7
+FURIN,immune,kupffer cells,48.2
+CST3,gut_epithelial,colonocytes,2002.8
+CST3,gut_epithelial,enterocytes,3917.2
+CST3,gut_epithelial,goblet cells,1209.8
+CST3,gut_epithelial,paneth cells,653.6
+CST3,gut_epithelial,tuft cells,945.3
+CST3,gut_epithelial,enteric stem cells,648.9
+CST3,gut_epithelial,enteric transient amplifying cells,910.6
+CST3,cardiovascular,cardiomyocytes,23.0
+CST3,cardiovascular,vascular smooth muscle cells,701.8
+CST3,cardiovascular,vascular endothelial cells,504.7
+CST3,cardiovascular,pericytes,1062.3
+CST3,cardiovascular,fibroblasts,2371.4
+CST3,cardiovascular,fibro-adipogenic progenitors,71.1
+CST3,cardiovascular,epicardial cells,29.6
+CST3,kidney,proximal tubule cells,20.3
+CST3,kidney,podocytes,37.2
+CST3,kidney,loop of henle epithelial cells,45.2
+CST3,kidney,renal collecting duct principal cells,61.6
+CST3,kidney,renal collecting duct intercalated cells,23.8
+CST3,kidney,distal convoluted tubule cells,16.7
+CST3,immune,macrophages,3054.8
+CST3,immune,monocytes,2539.6
+CST3,immune,neutrophils,221.0
+CST3,immune,t-cells,54.8
+CST3,immune,b-cells,28.3
+CST3,immune,plasma cells,109.7
+CST3,immune,nk-cells,44.4
+CST3,immune,mast cells,507.5
+CST3,immune,cdc,11109.8
+CST3,immune,pdcs,748.1
+CST3,immune,innate lymphoid cells,55.4
+CST3,immune,kupffer cells,4972.9
+FCER1G,gut_epithelial,colonocytes,0.8
+FCER1G,gut_epithelial,enterocytes,0.2
+FCER1G,gut_epithelial,goblet cells,0.8
+FCER1G,gut_epithelial,paneth cells,0.0
+FCER1G,gut_epithelial,tuft cells,0.0
+FCER1G,gut_epithelial,enteric stem cells,0.1
+FCER1G,gut_epithelial,enteric transient amplifying cells,0.6
+FCER1G,cardiovascular,cardiomyocytes,0.9
+FCER1G,cardiovascular,vascular smooth muscle cells,3.1
+FCER1G,cardiovascular,vascular endothelial cells,3.7
+FCER1G,cardiovascular,pericytes,10.8
+FCER1G,cardiovascular,fibroblasts,2.9
+FCER1G,cardiovascular,fibro-adipogenic progenitors,0.8
+FCER1G,cardiovascular,epicardial cells,2.3
+FCER1G,kidney,proximal tubule cells,0.2
+FCER1G,kidney,podocytes,0.3
+FCER1G,kidney,loop of henle epithelial cells,0.4
+FCER1G,kidney,renal collecting duct principal cells,0.5
+FCER1G,kidney,renal collecting duct intercalated cells,0.2
+FCER1G,kidney,distal convoluted tubule cells,0.2
+FCER1G,immune,macrophages,1050.3
+FCER1G,immune,monocytes,1400.6
+FCER1G,immune,neutrophils,3045.3
+FCER1G,immune,t-cells,26.2
+FCER1G,immune,b-cells,3.8
+FCER1G,immune,plasma cells,8.5
+FCER1G,immune,nk-cells,482.7
+FCER1G,immune,mast cells,778.2
+FCER1G,immune,cdc,1062.3
+FCER1G,immune,pdcs,650.1
+FCER1G,immune,innate lymphoid cells,156.6
+FCER1G,immune,kupffer cells,2554.1
+TBXAS1,gut_epithelial,colonocytes,13.0
+TBXAS1,gut_epithelial,enterocytes,1.0
+TBXAS1,gut_epithelial,goblet cells,9.2
+TBXAS1,gut_epithelial,paneth cells,11.6
+TBXAS1,gut_epithelial,tuft cells,80.7
+TBXAS1,gut_epithelial,enteric stem cells,16.3
+TBXAS1,gut_epithelial,enteric transient amplifying cells,11.7
+TBXAS1,cardiovascular,cardiomyocytes,16.8
+TBXAS1,cardiovascular,vascular smooth muscle cells,14.7
+TBXAS1,cardiovascular,vascular endothelial cells,12.9
+TBXAS1,cardiovascular,pericytes,13.0
+TBXAS1,cardiovascular,fibroblasts,11.1
+TBXAS1,cardiovascular,fibro-adipogenic progenitors,4.5
+TBXAS1,cardiovascular,epicardial cells,27.3
+TBXAS1,kidney,proximal tubule cells,16.9
+TBXAS1,kidney,podocytes,164.4
+TBXAS1,kidney,loop of henle epithelial cells,27.5
+TBXAS1,kidney,renal collecting duct principal cells,11.1
+TBXAS1,kidney,renal collecting duct intercalated cells,59.0
+TBXAS1,kidney,distal convoluted tubule cells,15.9
+TBXAS1,immune,macrophages,682.4
+TBXAS1,immune,monocytes,892.9
+TBXAS1,immune,neutrophils,2238.6
+TBXAS1,immune,t-cells,37.6
+TBXAS1,immune,b-cells,158.2
+TBXAS1,immune,plasma cells,142.0
+TBXAS1,immune,nk-cells,152.2
+TBXAS1,immune,mast cells,389.1
+TBXAS1,immune,cdc,295.1
+TBXAS1,immune,pdcs,36.5
+TBXAS1,immune,innate lymphoid cells,116.1
+TBXAS1,immune,kupffer cells,675.4

@@ -1,6 +1,26 @@
-_new.docx
+# Large inputs and intermediates are rebuilt by the scripts, not committed
+data_raw/
+*.tsv
+*.vcf.gz
+*.vcf.gz.tbi
+*.rds
+*.zip
+variants_240.csv
+r_variants_240.csv
+_fig_stage/
+
+# Python / R
 __pycache__/
 *.pyc
-_tmp/
-_idx/
-*.vcf.gz.tbi
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+~$*
+*.tmp

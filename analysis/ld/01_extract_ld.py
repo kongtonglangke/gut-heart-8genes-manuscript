@@ -16,7 +16,7 @@ import sys
 import time
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-sys.path.insert(0, r"F:\longxiawenjian\gaoxueyaqiguanzhou\P0_mr")
+sys.path.insert(0, r"F:/longxiawenjian/gaoxueyaqiguanzhou/00_Shared_Resources/P0_mr")
 from _tabix import Tabix                                    # noqa: E402
 
 BASE = ("https://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/"

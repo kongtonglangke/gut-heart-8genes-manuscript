@@ -1,0 +1,5 @@
+gene,snp,role,pos,htn_p,htn_beta,p_Colon_Sigmoid,b_Colon_Sigmoid,p_Colon_Transverse,b_Colon_Transverse,p_Small_Intestine_Terminal_Ileum,b_Small_Intestine_Terminal_Ileum,p_Whole_Blood,b_Whole_Blood
+FURIN,rs6227,"HTN lead, 3'UTR",90882002,3.18e-34,+0.069,9.18e-01,-0.004,3.45e-01,+0.025,9.30e-01,+0.004,5.68e-01,-0.009
+MTHFR,rs12567136,"HTN lead, nearest CLCN6",11823674,5.19e-44,-0.100,2.30e-03,+0.195,1.08e-04,+0.178,8.82e-04,+0.282,1.10e-17,+0.366
+MTHFR,rs3818762,gut eQTL lead,11790946,1.92e-12,-0.039,1.74e-10,+0.304,3.97e-14,+0.278,1.74e-09,+0.389,2.06e-33,+0.437
+CST3,rs71334202,gut eQTL lead,,,,7.99e-15,-0.452,7.35e-06,-0.235,1.82e-01,-0.071,6.38e-19,-0.198

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript below."
+title: "Code and derived tables for: Two internal controls calibrate colocalization, a three-layer genetic triage of eight gut-heart candidate genes for hypertension"
+version: 1.0.0
+date-released: 2026-11-23
+license: MIT
+repository-code: "https://github.com/kongtonglangke/gut-heart-8genes-AHG"
+authors:
+  - family-names: Wang
+    given-names: Yan
+    affiliation: "Department of Nephrology, Affiliated Hospital of Gansu Medical College, Pingliang, Gansu 744000, China"
+  - family-names: Bai
+    given-names: Jing
+    affiliation: "Department of Cardiovascular Medicine, Affiliated Hospital of Gansu Medical College, Pingliang, Gansu 744000, China"
+keywords:
+  - colocalization
+  - Mendelian randomization
+  - expression quantitative trait loci
+  - hypertension
+  - genetic epidemiology

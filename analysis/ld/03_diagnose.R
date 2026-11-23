@@ -4,7 +4,7 @@
 
 suppressPackageStartupMessages(library(susieR))
 
-BASE <- "F:/longxiawenjian/gaoxueyaqiguanzhou/Gut_Heart_RAS_8genes"
+BASE <- "F:/longxiawenjian/gaoxueyaqiguanzhou/Paper01_GutHeart_8genes/Gut_Heart_RAS_8genes"
 LD <- file.path(BASE, "08_ld")
 say <- function(...) cat(..., "\n", sep = "")
 

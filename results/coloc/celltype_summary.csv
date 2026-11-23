@@ -1,0 +1,9 @@
+gene,specificity,distribution,top1,top2,top3,max_gut,max_gut_cell,max_immune,max_immune_cell
+LRP1,Cell type enhanced,Detected in many,Adipocytes (513),Fibroblasts (444),Leydig cells (345),nan,,334.9,Oligodendrocyte progenitor cells
+CTSD,Cell type enhanced,Detected in many,Retinal pigment epithelial cells (55),Enterocytes (20),Salivary duct cells (17),19.7,Enterocytes,nan,
+MTHFR,Cell type enhanced,Detected in many,Epididymal principal cells (152),,,nan,,nan,
+AUTS2,Cell type enhanced,Detected in many,Retinal horizontal cells (3440),Lactotrophs (2233),Corticotrophs (2210),nan,,nan,
+FURIN,Cell type enhanced,Detected in many,Tuft cells (277),Platelets (217),Salivary acinar cells (200),276.7,Tuft cells,132.5,Neutrophils
+CST3,Cell type enhanced,Detected in all,Retinal pigment epithelial cells (11783),cDC (11110),Decidual stromal cells (7914),3917.2,Enterocytes,11109.8,cDC
+FCER1G,Cell type enhanced,Detected in many,Neutrophils (3045),Hofbauer cells (2845),Kupffer cells (2554),nan,,3045.3,Neutrophils
+TBXAS1,Cell type enhanced,Detected in many,Neutrophils (2239),Microglia (1054),monocytes (893),nan,,2238.6,Neutrophils
